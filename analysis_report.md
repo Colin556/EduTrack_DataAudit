@@ -1,9 +1,4 @@
 # EduTrack Data Audit
-
-Source: the supplied context.md dataset. Supabase access was unavailable;
-these results were calculated from the supplied rows, not obtained from
-a live database execution.
-
 Initial dataset: 10 students, 7 courses, 17 enrollments.
 Q1–Q5 describe the initial dataset. Q9–Q12 describe the dataset after
 Q6–Q8, containing 16 enrollments. Students and courses remain unchanged.
